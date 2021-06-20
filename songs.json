@@ -1,0 +1,110 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "name": "CLMCC",
+      "singer": "BRay",
+      "image": "assets/img/chi-la-1-cai-co.jpg",
+      "audio": "assets/audio/ChiLaMotCaiCo-BRay-5053336.mp3"
+    },
+
+    {
+      "id": 2,
+      "name": "B.S.N.L 3",
+      "singer": "BRay, YoungH",
+      "image": "assets/img/b.s.n.l-3.jpg",
+      "audio": "assets/audio/B_S_N_L 3 - Young H_ B Ray.mp3"
+    },
+    {
+      "id": 3,
+      "name": "B.S.N.L",
+      "singer": "BRay, YoungH",
+      "image": "assets/img/b.s.n.l.jpg",
+      "audio": "assets/audio/BSNL-YoungHBRay-4605193.mp3"
+    },
+    {
+      "id": 4,
+      "name": "B.S.N.L 2",
+      "singer": "BRay, YoungH",
+      "image": "assets/img/b.s.n.l-2.jpg",
+      "audio": "assets/audio/BSNL2-BRayYoungH-4770825.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Ba Da Bum",
+      "singer": "BRay",
+      "image": "assets/img/ba-da-bum.jpg",
+      "audio": "assets/audio/Badabum-Bray-5385909.mp3"
+    },
+    {
+      "id": 6,
+      "name": "Thuốc Lá và Cà Phê",
+      "singer": "BRay",
+      "image": "assets/img/thuoc-la-va-ca-phe.jpg",
+      "audio": "assets/audio/ThuocLaVaCaPhe-BRay-5598874.mp3"
+    },
+    {
+      "id": 7,
+      "name": "Con Trai Cưng",
+      "singer": "BRay, Masew",
+      "image": "assets/img/con-trai-cung.jpg",
+      "audio": "assets/audio/ConTraiCung-BRayMasew-5731758.mp3"
+    },
+    {
+      "id": 8,
+      "name": "Đâu Đó",
+      "singer": "BRay, Masew, NhatNguyen",
+      "image": "assets/img/dau-do.jpg",
+      "audio": "assets/audio/DauDo-BRayMasewNhatNguyen-5704270.mp3"
+    },
+    {
+      "id": 9,
+      "name": "Do For Love",
+      "singer": "BRay, AMee",
+      "image": "assets/img/do-for-love.jpg",
+      "audio": "assets/audio/DoForLove-AMeeBRay-6221980.mp3"
+    },
+    {
+      "id": 10,
+      "name": "Ex's Hate Me",
+      "singer": "BRay, Masew, AMee",
+      "image": "assets/img/ex's-hate-me.jpg",
+      "audio": "assets/audio/ExsHateMe-BRayMasewAMee-5878683.mp3"
+    },
+    {
+      "id": 11,
+      "name": "Lý Do Anh Say",
+      "singer": "BRay",
+      "image": "assets/img/ly-do-anh-say.jpg",
+      "audio": "assets/audio/LyDoAnhSay-BRay-4654017.mp3"
+    },
+    {
+      "id": 12,
+      "name": "Ở Trong Thành Phố",
+      "singer": "BRay, Masew, Hannah",
+      "image": "assets/img/o-trong-thanh-pho.jpg",
+      "audio": "assets/audio/OTrongThanhPho-MasewHannahBRay-5323877.mp3"
+    },
+    {
+      "id": 13,
+      "name": "Cao Ốc 20",
+      "singer": "BRay, DatG, Masew, KICM",
+      "image": "assets/img/cao-oc-20.jpg",
+      "audio": "assets/audio/CaoOc20-BRayDatGMasewKICM-6008352.mp3"
+    },
+    {
+      "id": 14,
+      "name": "Xin",
+      "singer": "BRay DatG Masew",
+      "image": "assets/img/xin.jpg",
+      "audio": "assets/audio/Xin-DatGMasewBRay-5325955.mp3"
+    },
+    {
+      "id": 15,
+      "name": "Yêu Như Trẻ Con",
+      "singer": "BRay",
+      "image": "assets/img/yeu-nhu-tre-con.jpg",
+      "audio": "assets/audio/YeuNhuTreCon-BRay-6104200.mp3"
+    }
+  ]
+}
